@@ -1,3 +1,5 @@
+# Strategy Design Pattern
+
 One of the major benefits of the **Strategy Design Pattern** is that it helps address situations where **not all child classes in a hierarchy need the same behavior** or where some child classes need to use entirely different implementations of a behavior. Instead of forcing all child classes to inherit behavior from the parent (which might not apply to some of them), the Strategy Pattern decouples that behavior and makes it optional and flexible.
 
 ---
